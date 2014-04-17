@@ -1,0 +1,7 @@
+//LATIHAN REPOSETORI
+//Nama File : BelajarGIT.txt
+
+Latihan GIT
+Dengan memasukkan file dalam bentuk .txt
+Created by : Abdul Rahman
+periode : 24 maret 2014

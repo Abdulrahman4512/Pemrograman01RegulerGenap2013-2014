@@ -1,0 +1,11 @@
+//Belajar Git dengan melakukan push pada github
+//Menampilkan Biodata pribadi
+//Perintah yang ke dua
+
+Nama			: Abdul Rahman
+NIM				: 4512210033
+Alamat			: Prum.suka tani permai semangka 5 blok s17 RT12/18 cimanggis Depok 
+Tempat lahir	: Putussibau
+Hobby			: Bolla, Bulutangkis, volly
+Email di github	: manbensam
+Email connect	: abdulrahmanpancasila@gmail.com

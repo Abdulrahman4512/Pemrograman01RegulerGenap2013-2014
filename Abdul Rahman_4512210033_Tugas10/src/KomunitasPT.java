@@ -1,4 +1,4 @@
-//created by: ABDUL RAHMAN
+//created by: Trisna nugraha
 //data		: 6 Juni 2014
 
 package Latihan10c.bin;
